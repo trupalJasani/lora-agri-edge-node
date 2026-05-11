@@ -1,6 +1,8 @@
 # AgriNode-ESP32-LoRa: Edge-Computed Plant Disease Forecasting
 
-> **Master's Thesis Project:** Decentralized Microclimate Monitoring & Battery-Optimized LoRa P2P Network for Precision Agriculture.
+> **Master's Thesis Project:** Low-Power LoRa Sensor Network with Edge
+Machine Learning for Crop Disease Risk
+Assessment.
 
 ## 📌 Overview
 This repository contains the firmware for an ultra-low-power, edge-computing IoT sensor node (Node A) designed for precision agriculture. Built on the **Espressif ESP-IDF** framework, the system actively monitors microclimate conditions to calculate the **Smith Period**—a critical agronomic model used for forecasting plant diseases like potato blight.
