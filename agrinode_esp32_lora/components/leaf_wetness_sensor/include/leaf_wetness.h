@@ -1,3 +1,11 @@
+/**
+  ******************************************************************************
+  * @file    leaf_wetness.h
+  * @author  Trupal Jasani
+  * @brief   leaf_wetness header driver file
+  ******************************************************************************
+  */
+
 #ifndef LEAF_WETNESS_H
 #define LEAF_WETNESS_H
 
